@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# =========================
-# Hack The Box Setup Script
-# =========================
-
 BASE_DIR="$HOME/Documents/hackthebox"
 
 clear
